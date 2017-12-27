@@ -1,0 +1,9 @@
+[submodule "middleware/ctl-frontend"]
+	path = middleware/ctl-frontend
+	url = ../ctl-frontend.git
+[submodule "connectors/bitstamp/md"]
+	path = connectors/bitstamp/md
+	url = ../bitstamp-md.git
+[submodule "middleware/obcache"]
+	path = middleware/obcache
+	url = ../obcache.git
