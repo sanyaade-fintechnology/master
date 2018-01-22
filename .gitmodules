@@ -16,3 +16,6 @@
 [submodule "middleware/submgr"]
 	path = middleware/submgr
 	url = ../submgr.git
+[submodule "middleware/sub2snap"]
+	path = middleware/sub2snap
+	url = ../sub2snap.git
