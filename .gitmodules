@@ -7,3 +7,12 @@
 [submodule "middleware/obcache"]
 	path = middleware/obcache
 	url = ../obcache.git
+[submodule "connectors/ibtws/acmd"]
+	path = connectors/ibtws/acmd
+	url = ../ibtws-acmd.git
+[submodule "utils"]
+	path = utils
+	url = ../utils.git
+[submodule "middleware/submgr"]
+	path = middleware/submgr
+	url = ../submgr.git
